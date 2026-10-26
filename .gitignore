@@ -1,0 +1,19 @@
+# 构建产物
+dist/
+gen/
+classes/
+dexout/
+*.idsig
+resources.zip
+sources.txt
+classes.txt
+*.apk
+
+# 签名文件（严禁提交）
+keystore.jks
+*.jks
+*.keystore
+
+# 系统/编辑器
+.DS_Store
+*.swp
